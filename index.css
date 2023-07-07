@@ -98,3 +98,10 @@ section .calculator{
   p {
     background-color: red !important;
   } */
+
+
+  .todo{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+  }
